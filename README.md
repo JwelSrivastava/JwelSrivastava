@@ -14,7 +14,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="150" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fblog.lsonline.fr%2Ftag%2Fgithub%2F&psig=AOvVaw3SU1YCFWcobPniaXGpz7Ov&ust=1757014287647000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCOCpjIuvvY8DFQAAAAAdAAAAABAE"  />
+  <img height="150" src=""  />
 </div>
 
 ###
