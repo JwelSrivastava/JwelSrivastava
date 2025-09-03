@@ -14,7 +14,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="150" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuOeFe80OCIMvGLkCxBn8O-cbj6D70aconVw&s" alt="profile image"  />
+  <img height="150" src="https://cdn-learn.adafruit.com/assets/assets/000/112/622/medium800/programming_GitHub_logo_with_mark.png?1656187481" alt="profile image"  />
 </div>
 
 ###
