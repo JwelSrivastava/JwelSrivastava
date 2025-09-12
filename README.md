@@ -1,6 +1,14 @@
 <br clear="both">
 
 <h2 align="center">Hello👋! My name is Jwel Srivastava and I'm a Web Developer from Gurgaon, Haryana.</h2>
+
+🚀 About Me :
+
+I'm a Final-year Computer Science Engineering student at UIET, Maharshi Dayanand University, passionate about Full Stack Development, Machine Learning, and IoT. I love turning complex problems into simple, beautiful, and intuitive solutions.
+
+"Code never lies, comments sometimes do. Consistency in small things leads to excellence in big things 🔥"  
+
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JwelSrivastava&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   &nbsp;&nbsp;&nbsp;
