@@ -8,16 +8,16 @@ I'm a Final-year Computer Science Engineering student at UIET, Maharshi Dayanand
 
 "Code never lies, comments sometimes do. Consistency in small things leads to excellence in big things 🔥"  
 
+---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JwelSrivastava&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <!-- Replace "your-vercel-app" with your deployed Vercel project name -->
+  <img src="https://your-vercel-app.vercel.app/api?username=JwelSrivastava&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   &nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JwelSrivastava&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://your-vercel-app.vercel.app/api/top-langs?username=JwelSrivastava&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-
-
-###
+---
 
 <br clear="both">
 
@@ -25,7 +25,7 @@ I'm a Final-year Computer Science Engineering student at UIET, Maharshi Dayanand
   <img height="150" src="https://cdn-learn.adafruit.com/assets/assets/000/112/622/medium800/programming_GitHub_logo_with_mark.png?1656187481" alt="profile image"  />
 </div>
 
-###
+---
 
 <br clear="both">
 
@@ -61,46 +61,34 @@ I'm a Final-year Computer Science Engineering student at UIET, Maharshi Dayanand
   <img src="https://cdn.simpleicons.org/mysql/4479A1" height="30" alt="mysql logo"  />
 </div>
 
+---
 
 <br clear="both">
-
 
 <div align="center">
 
   <a href="https://www.instagram.com/your_username" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" style="margin: 0 10px;" />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
   </a>
-
-  
 
   <a href="https://discord.com/users/your_userid" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" style="margin: 0 10px;" />
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" />
   </a>
 
-
   <a href="https://www.linkedin.com/in/your_username" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" style="margin: 0 10px;" />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
 
   <a href="https://twitter.com/your_username" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo" style="margin: 0 10px;" />
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo" />
   </a>
 
 </div>
 
-
-
-###
+---
 
 <br clear="both">
 
-
-
-
 ![GitHub Snake Animation](https://github.com/JwelSrivastava/JwelSrivastava/blob/output/snake.svg)
 
-</div>
-
-
-
-###
+---
