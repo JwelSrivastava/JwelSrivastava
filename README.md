@@ -14,16 +14,9 @@
 
 ### 📊 GitHub Stats
 <div align="center">
-  <table border="0" cellpadding="0" cellspacing="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=JwelSrivastava&show_icons=true&theme=dracula&include_all_commits=true&cache_seconds=86400" alt="Jwel's GitHub Stats" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JwelSrivastava&layout=compact&theme=dracula&langs_count=6&cache_seconds=86400" alt="Jwel's Top Languages" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-readme-stats.vercel.app/api?username=JwelSrivastava&show_icons=true&theme=dracula&include_all_commits=true&cache_seconds=86400" alt="Jwel's GitHub Stats" />
+  &nbsp;&nbsp;&nbsp;&nbsp; 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JwelSrivastava&layout=compact&theme=dracula&langs_count=6&cache_seconds=86400" alt="Jwel's Top Languages" />
 </div>
 
 ---
