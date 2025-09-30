@@ -16,8 +16,7 @@
 <div align="center">
 
   <!-- GitHub Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=JwelSrivastava&show_icons=true&theme=dracula&count_private=true&include_all_commits=true&cache_seconds=86400" height="150" alt="stats graph" />
-  &nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api?username=JwelSrivastava&show_icons=true&theme=dracula&cache_seconds=86400" height="150" alt="stats graph" />
   <!-- Top Languages Card -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JwelSrivastava&layout=compact&theme=dracula&langs_count=6&cache_seconds=86400" height="150" alt="languages graph" />
 
