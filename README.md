@@ -14,16 +14,16 @@
 
 ### 📊 GitHub Stats
 <div align="center">
-
-  <!-- GitHub Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=JwelSrivastava&show_icons=true&theme=dracula&cache_seconds=86400" height="150" alt="stats graph" />
-  <!-- Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JwelSrivastava&layout=compact&theme=dracula&langs_count=6&cache_seconds=86400" height="150" alt="languages graph" />
-
-  <!-- Activity Graph -->
-  <br><br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JwelSrivastava&theme=dracula&hide_border=true" alt="activity graph" />
-
+  <table border="0" cellpadding="0" cellspacing="0">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=JwelSrivastava&show_icons=true&theme=dracula&include_all_commits=true&cache_seconds=86400" alt="Jwel's GitHub Stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JwelSrivastava&layout=compact&theme=dracula&langs_count=6&cache_seconds=86400" alt="Jwel's Top Languages" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
