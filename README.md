@@ -80,3 +80,11 @@
 ---
 
 ![GitHub Snake Animation](https://github.com/JwelSrivastava/JwelSrivastava/blob/output/snake.svg)
+
+---
+
+### 📈 Contribution Graph
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JwelSrivastava&theme=dracula&hide_border=true&area=true" alt="Jwel Srivastava's Contribution Graph" />
+</div>
+
