@@ -5,7 +5,7 @@
 ---
 
 ### 🚀 About Me
-- 🎓 Final-year **CSE Student** @ U.I.E.T, Maharshi Dayanand University.
+- 🎓 Final-year **CSE Student** @ U.I.E.T, Maharshi Dayanand University  
 - 💻 Passionate about **Full Stack Development | UI/UX Design**  
 - 🛠️ Love turning complex problems into **simple, scalable, and intuitive solutions**  
 - ⚡ Quote I live by: *"Code never lies, comments sometimes do. Consistency in small things leads to excellence in big things 🔥"*  
@@ -79,7 +79,10 @@
 
 ---
 
-![GitHub Snake Animation](https://github.com/JwelSrivastava/JwelSrivastava/blob/output/snake.svg)
+### 🐍 GitHub Activity Snake
+<div align="center">
+  <img src="https://github.com/JwelSrivastava/JwelSrivastava/blob/output/snake.svg" alt="Snake animation" />
+</div>
 
 ---
 
@@ -88,3 +91,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=JwelSrivastava&theme=dracula&hide_border=true&area=true" alt="Jwel Srivastava's Contribution Graph" />
 </div>
 
+---
+
+<h4 align="center">🔥 Always Learning, Always Building — One Commit at a Time 🚀</h4>
