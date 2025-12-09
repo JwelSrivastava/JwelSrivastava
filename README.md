@@ -14,58 +14,44 @@
 
 ### 📊 GitHub Stats
 <div align="center">
-
-  <!-- GitHub Stats -->
-  <img 
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=JwelSrivastava&show_icons=true&theme=dracula&include_all_commits=true&hide_border=true" 
-    alt="Jwel's GitHub Stats"
-    height="180"
-  />
-
-  &nbsp;&nbsp;
-
-  <!-- Top Languages -->
-  <img 
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JwelSrivastava&layout=compact&theme=dracula&langs_count=6&hide_border=true" 
-    alt="Top Languages"
-    height="180"
-  />
-
+  <img src="https://github-readme-stats.vercel.app/api?username=JwelSrivastava&show_icons=true&theme=dracula&include_all_commits=true&cache_seconds=86400" alt="Jwel's GitHub Stats" />
+  &nbsp;&nbsp;&nbsp;&nbsp; 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JwelSrivastava&layout=compact&theme=dracula&langs_count=6&cache_seconds=86400" alt="Jwel's Top Languages" />
 </div>
 
 ---
 
 ### 🛠️ Tech Stack
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="30" />
+  <img src="https://skillicons.dev/icons?i=react" height="30" alt="react logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=express" height="30" />
+  <img src="https://skillicons.dev/icons?i=express" height="30" alt="express logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="30" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="nodejs logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="30" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="30" alt="mongodb logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vite" height="30" />
+  <img src="https://skillicons.dev/icons?i=vite" height="30" alt="vite logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="30" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="tailwindcss logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postman" height="30" />
+  <img src="https://skillicons.dev/icons?i=postman" height="30" alt="postman logo" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="30" />
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="30" alt="mysql logo" />
 </div>
 
 ---
@@ -102,7 +88,7 @@
 
 ### 📈 Contribution Graph
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JwelSrivastava&theme=dracula&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JwelSrivastava&theme=dracula&hide_border=true&area=true" alt="Jwel Srivastava's Contribution Graph" />
 </div>
 
 ---
