@@ -14,9 +14,7 @@
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=JwelSrivastava&show_icons=true&theme=dracula&hide_border=true&v=1)
-
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JwelSrivastava&layout=compact&theme=dracula&hide_border=true&v=1)
+![Metrics](https://metrics.lecoq.io/JwelSrivastava)
 
 
 ### 🛠️ Tech Stack
