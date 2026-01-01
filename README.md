@@ -12,11 +12,12 @@
 
 ---
 
-### 📊 GitHub Overview
-![Metrics](https://metrics.lecoq.io/JwelSrivastava)
+### 📊 GitHub Stats
 
-### 🔥 Streak
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=JwelSrivastava&theme=dracula)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=JwelSrivastava&show_icons=true&theme=dracula&hide_border=true&v=1)
+
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JwelSrivastava&layout=compact&theme=dracula&hide_border=true&v=1)
+
 
 ### 🛠️ Tech Stack
 <div align="center">
