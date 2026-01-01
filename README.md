@@ -12,9 +12,9 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Overview
+![Metrics](https://raw.githubusercontent.com/JwelSrivastava/JwelSrivastava/main/metrics.svg)
 
-![Metrics](https://metrics.lecoq.io/JwelSrivastava)
 
 
 ### 🛠️ Tech Stack
