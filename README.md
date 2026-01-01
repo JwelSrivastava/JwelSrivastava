@@ -13,10 +13,18 @@
 ---
 
 ### 📊 GitHub Stats
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JwelSrivastava&show_icons=true&theme=dracula&include_all_commits=true&cache_seconds=86400" alt="Jwel's GitHub Stats" />
-  &nbsp;&nbsp;&nbsp;&nbsp; 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JwelSrivastava&layout=compact&theme=dracula&langs_count=6&cache_seconds=86400" alt="Jwel's Top Languages" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=JwelSrivastava&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true" 
+    height="165"
+    alt="Jwel's GitHub Stats"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=JwelSrivastava&layout=compact&theme=dracula&hide_border=true&langs_count=6" 
+    height="165"
+    alt="Jwel's Top Languages"
+  />
 </div>
 
 ---
