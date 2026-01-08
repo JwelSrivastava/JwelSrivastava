@@ -12,12 +12,6 @@
 
 ---
 
-### 📊 GitHub Overview
-![Metrics](https://raw.githubusercontent.com/JwelSrivastava/JwelSrivastava/main/metrics.svg)
-
-### 🔥 Streak
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=JwelSrivastava&theme=dracula)
-
 
 
 ### 🛠️ Tech Stack
