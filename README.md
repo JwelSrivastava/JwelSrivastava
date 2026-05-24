@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h2 align="center">Hello👋! I'm Jwel Srivastava — Web Developer from Gurgaon, Haryana</h2>
+<h2 align="center">Hello👋! I'm Jwel Srivastava — Software Engineer from Gurgaon, Haryana</h2>
 
 
 ### 🚀 About Me
