@@ -4,10 +4,10 @@
 
 
 ### 🚀 About Me
-- 🎓 Graduated **CSE Student** @ U.I.E.T, Maharshi Dayanand University Batch 2022-2026
-- 💻 Passionate about **Full Stack AI Development | UI/UX Design | AI Engineer**  
-- 🛠️ Love turning complex problems into **simple, scalable, and intuitive solutions**  
-- ⚡ Quote I live by: *"Code never lies, comments sometimes do. Consistency in small things leads to excellence in big things 🔥"*  
+-  Graduated **CSE Student** @ U.I.E.T, Maharshi Dayanand University Batch 2022-2026
+-  Passionate about **Full Stack AI Development | UI/UX Design | AI Engineer**  
+-  Love turning complex problems into **simple, scalable, and intuitive solutions**  
+-  Quote I live by: *"Code never lies, comments sometimes do. Consistency in small things leads to excellence in big things 🔥"*  
 
 ---
 
