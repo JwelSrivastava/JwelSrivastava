@@ -2,11 +2,10 @@
 
 <h2 align="center">Hello👋! I'm Jwel Srivastava — Web Developer from Gurgaon, Haryana</h2>
 
----
 
 ### 🚀 About Me
-- 🎓 Final-year **CSE Student** @ U.I.E.T, Maharshi Dayanand University  
-- 💻 Passionate about **Full Stack Development | UI/UX Design**  
+- 🎓 Graduated **CSE Student** @ U.I.E.T, Maharshi Dayanand University Batch 2022-2026
+- 💻 Passionate about **Full Stack AI Development | UI/UX Design | AI Engineer**  
 - 🛠️ Love turning complex problems into **simple, scalable, and intuitive solutions**  
 - ⚡ Quote I live by: *"Code never lies, comments sometimes do. Consistency in small things leads to excellence in big things 🔥"*  
 
@@ -75,13 +74,6 @@
 ### 🐍 GitHub Activity Snake
 <div align="center">
   <img src="https://github.com/JwelSrivastava/JwelSrivastava/blob/output/snake.svg" alt="Snake animation" />
-</div>
-
----
-
-### 📈 Contribution Graph
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JwelSrivastava&theme=dracula&hide_border=true&area=true" alt="Jwel Srivastava's Contribution Graph" />
 </div>
 
 ---
